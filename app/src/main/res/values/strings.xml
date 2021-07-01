@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Remainder</string>
+
+    <string-array name="describe">
+        <item>What are we buying?</item>
+        <item>Meeting with a friend?</item>
+        <item>Ready for some music?</item>
+        <item>Nature time!</item>
+        <item>What is on your mind?</item>
+        <item>Pause ?</item>
+        <item>Did you run today?</item>
+        <item>Got prepared for school?</item>
+        <item>Time for work!</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Buying</item>
+        <item>Friends</item>
+        <item>Music</item>
+        <item>Nature</item>
+        <item>Other</item>
+        <item>Relax</item>
+        <item>Sport</item>
+        <item>School</item>
+        <item>Work</item>
+    </string-array>
+</resources>
